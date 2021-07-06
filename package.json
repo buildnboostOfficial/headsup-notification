@@ -1,6 +1,6 @@
 {
   "name": "@buildnboost/headsup-notification",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "In-app Headsup notification for react native",
   "main": "index.tsx",
   "scripts": {
