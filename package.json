@@ -1,5 +1,5 @@
 {
-  "name": "@rajdevkar/headsup-notification",
+  "name": "@buildnboost/headsup-notification",
   "version": "1.0.0",
   "description": "In-app Headsup notification for react native",
   "main": "index.tsx",
@@ -7,11 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "react native notification",
+    "instagram like in-app notification",
     "notification"
   ],
   "author": "Raj Devkar",
   "license": "ISC",
-  "homepage": "https://github.com/rajdevkar/headsup-notification#readme",
+  "homepage": "https://github.com/buildnboostOfficial/headsup-notification",
   "dependencies": {
     "react-native-simple-events": "^1.0.1"
   },
